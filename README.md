@@ -24,9 +24,6 @@ No backend or frameworks required – runs directly in the browser.
 3. Open `index.html` in a web browser (e.g., double-click the file or use a local server like `python -m http.server`).
 4. Start using the dashboard: Submit forms, filter, and manage exceptions.
 
-## Live Demo
-View the live version hosted on GitHub Pages: [https://mohdabid4333-dotcom.github.io/delivery-exception-dashboard](https://mohdabid4333-dotcom.github.io/delivery-exception-dashboard).
-
 ## Screenshots
 <img width="1918" height="1022" alt="Screenshot 2026-02-13 204255" src="https://github.com/user-attachments/assets/24833ea8-50ce-4cea-b554-0e5ae3e445c7" />
 <img width="1918" height="1020" alt="Screenshot 2026-02-13 204431" src="https://github.com/user-attachments/assets/53d0be41-6892-4734-a4d7-d7c20aac5f64" />
