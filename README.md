@@ -28,8 +28,9 @@ No backend or frameworks required – runs directly in the browser.
 View the live version hosted on GitHub Pages: [https://mohdabid4333-dotcom.github.io/delivery-exception-dashboard](https://mohdabid4333-dotcom.github.io/delivery-exception-dashboard).
 
 ## Screenshots
-![Screenshot 2026-02-13 204255.png](Screenshot 2026-02-13 204255.png)
-![Screenshot 2026-02-13 204431.png](Screenshot 2026-02-13 204431.png)
+Dashboard Screenshot: [Screenshot 2026-02-13 204255.png](Screenshot 2026-02-13 204255.png)
+
+Dashboard Screenshot: [Screenshot 2026-02-13 204431.png](Screenshot 2026-02-13 204431.png)
 
 ## Testing
 - Submit sample exceptions using the form (e.g., Delivery ID: "DEL001", Customer Name: "John Doe", Issue Type: "Address Not Found", Priority: "High").
@@ -38,7 +39,9 @@ View the live version hosted on GitHub Pages: [https://mohdabid4333-dotcom.githu
 
 ## Project Structure
 HTML File: [index.html](index.html)
+
 CSS File: [styles.css](styles.css)
+
 JavaScript File: [script.js](script.js)
 
 ## Contributing
